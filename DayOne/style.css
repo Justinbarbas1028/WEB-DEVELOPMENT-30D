@@ -1,0 +1,118 @@
+h1{
+    text-align: center;
+    text-shadow: 5px;
+    color: white;
+    background-color: hsl(0, 1%, 47%);
+    font-family: verdana;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color:;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    
+}
+
+body{
+    background-color: darkgray;
+}
+
+.navigation li a {
+    color: rgb(247, 226, 189);
+    font-size: 20px;
+}
+
+.navigation li a:hover {
+    color: aqua;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+.word {
+    width: 450px;
+    left: 25px;
+    color: hsl(0, 9%, 15%);
+    padding-left: 60px;
+}
+
+.word2 {
+    position: absolute;
+    width: 450px;
+    right: 0;
+    top: 0;
+    padding: 20px 60px;
+}
+
+.word3 {
+    text-align: justify;
+    padding: 20px 60px;
+}
+
+.word4 {
+    width: 450px;
+    left: 25px;
+    color: hsl(0, 9%, 15%);
+    padding-left: 60px;
+}
+
+.word5 {
+    position: absolute;
+    width: 450px;
+    right: 0;
+    top: 0;
+    padding: 20px 60px;
+}
+
+
+
+section {
+    position: relative;
+}
+
+.car img{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-right: 60px;
+    max-width: 500px;
+}
+
+.car2 img{
+    padding: 60px;
+    max-width: 500px;
+}
+
+.car3 img{
+    max-width: 1150px;
+    padding: 20px 60px;
+}
+
+.car4 img{
+    max-width: 500px;
+    padding: 60px;
+}
+
+.car5 img{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding-right: 60px;
+    max-width: 500px;
+}
+
+img:hover{
+    opacity: 0.8;
+}
+
